@@ -1,9 +1,13 @@
 """
 Pygame Snake!
-(My first Python program)
+(My first Python program!)
 Made by Franklin Rosales
- Yes, I didn't even do that 'Hello World' stuff, I went straight into this as soon as I finished
- my online course. May be buggy and unoptimised as hell, but any help would be welcome.
+
+A simple Snake ripoff I made with Pygame.
+
+May be buggy and unoptimised as hell, but any help would be welcome.
+And no, I don't care if you change something.
+
 """
 import pygame
 import random
