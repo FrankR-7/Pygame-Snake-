@@ -1,3 +1,2 @@
 # Pygame-Snake-
 A very simple project I made to get started with Python. Any opinions or advice are super useful!
-Btw I'm a super noob with Python and Github, so I may have something wrong around here...
