@@ -1,8 +1,7 @@
 """
 Pygame Snake!
 (My first Python program!)
-Made by Franklin Rosales
-
+Made by Pi
 A simple Snake ripoff I made with Pygame.
 
 May be buggy and unoptimised as hell, but any help would be welcome.
